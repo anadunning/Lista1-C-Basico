@@ -12,7 +12,7 @@ int main(){
 
     rad = degToRad(deg);
 
-    printf("O angulo %f em graus corresponde a %f em radianos.\n", deg, rad);
+    printf("O angulo %.2f em graus corresponde a %.2f em radianos.\n", deg, rad);
 
     return 0;
 }
