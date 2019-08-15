@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 	Leia um ângulo em radianos e apresente-o em graus.
+
 float radToDegrees(float R);
 
 int main(){
