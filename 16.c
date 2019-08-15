@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Leia um valor de comprimento em polegadas e apresente-o em centímetros.
+
 float inchesToCentim(float P);
 
 int main(){
